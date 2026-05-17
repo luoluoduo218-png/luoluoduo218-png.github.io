@@ -1,3 +1,4 @@
+google.com, pub-9820838839076722, DIRECT, f08c47fec0942fa0
 toponad.com, 7ed055cadd9596eeb8ca66cccedf0fc8, DIRECT, 1d49fe424a1a456d
 acexchange.co.kr, 1368497933, RESELLER
 admixer.net, 6453e352-f022-471f-ae8e-e1ff54183704, RESELLER
