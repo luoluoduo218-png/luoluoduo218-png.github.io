@@ -226,7 +226,6 @@ pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
-pubmatic.com, 159277, RESELLER, 
 pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
@@ -278,7 +277,6 @@ rubiconproject.com, 27052, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27396, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27538, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27692, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 27945, RESELLER, 
 rubiconproject.com, 27945, RESELLER, 0bfd66d529a55807
 sabio.us, 100032, RESELLER, 96ed93aaa9795702
 se7en.es, 212450, RESELLER, 064bc410192443d8
@@ -293,7 +291,6 @@ sharethrough.com, tZy9X0vy, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, zMvLLpo1, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6031, RESELLER
 silvermob.com, 464, RESELLER
-singularads, 548745, RESELLER
 smaato.com, 1100044156, RESELLER, 07bcf65f187117b4
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
